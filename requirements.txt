@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+jsbeautifier
+pandas
+openpyxl
+lxml
+fake-useragent
